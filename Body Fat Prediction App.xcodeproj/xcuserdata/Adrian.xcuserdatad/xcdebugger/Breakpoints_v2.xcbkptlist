@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Body Fat Prediction App/ViewController.swift"
+            timestampString = "519315314.471842"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Body_Fat_Prediction_App.ViewController.__deallocating_deinit"
+                  moduleName = "Body Fat Prediction App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Adrian/Desktop/Body%20Fat%20Prediction%20App/Body%20Fat%20Prediction%20App/ViewController.swift"
+                  timestampString = "519315322.508271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Body_Fat_Prediction_App.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Body_Fat_Prediction_App.ViewController"
+                  moduleName = "Body Fat Prediction App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Adrian/Desktop/Body%20Fat%20Prediction%20App/Body%20Fat%20Prediction%20App/ViewController.swift"
+                  timestampString = "519315322.517401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Body_Fat_Prediction_App.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Body_Fat_Prediction_App.ViewController"
+                  moduleName = "Body Fat Prediction App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Adrian/Desktop/Body%20Fat%20Prediction%20App/Body%20Fat%20Prediction%20App/ViewController.swift"
+                  timestampString = "519315322.521071"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Body_Fat_Prediction_App.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Body_Fat_Prediction_App.ViewController&gt;"
+                  moduleName = "Body Fat Prediction App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Adrian/Desktop/Body%20Fat%20Prediction%20App/Body%20Fat%20Prediction%20App/ViewController.swift"
+                  timestampString = "519315322.526946"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Body_Fat_Prediction_App.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Body_Fat_Prediction_App.ViewController&gt;"
+                  moduleName = "Body Fat Prediction App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Adrian/Desktop/Body%20Fat%20Prediction%20App/Body%20Fat%20Prediction%20App/ViewController.swift"
+                  timestampString = "519315322.530991"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "105">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Body Fat Prediction App/ViewController.swift"
+            timestampString = "519371976.82986"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "takePhoto(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Body Fat Prediction App/ViewController.swift"
+            timestampString = "519371976.82986"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Body Fat Prediction App/ViewController.swift"
+            timestampString = "519371976.82986"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
