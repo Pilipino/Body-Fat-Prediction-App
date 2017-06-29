@@ -33,6 +33,8 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
     }
 
     
+// https://stackoverflow.com/questions/28532564/extract-rgb-values-from-uicolor
+    
     func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [String : Any]) {
         
         let gatheredImage = info[UIImagePickerControllerOriginalImage] as? UIImage
@@ -59,6 +61,8 @@ class ViewController: UIViewController, UINavigationControllerDelegate, UIImageP
         
     }
 }
+
+// https://stackoverflow.com/questions/28532564/extract-rgb-values-from-uicolor
 
 extension UIColor {
     var coreImageColor: CIColor {
