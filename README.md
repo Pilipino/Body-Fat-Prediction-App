@@ -5,8 +5,8 @@ MobiFit is a study that explores the utilisation of a smartphone’s LED light t
 
 **FIRST RUNNER-UP** 
 
-in the 2017 Search for the Wyeth Nutrition Kid Innovators
-held in Sofitel Manila on 
+in the Grand Finals of the 2017 Search for the Wyeth Nutrition Kid Innovators
+on October 10 held at Sofitel Philippine Plaza, Pasay City.
 
 # Creators
 
