@@ -20,5 +20,5 @@ MobiFit is composed of a team of students from Xavier School High School:
 
 **Mentored by:**
 
-* Mr. Peter Martin Gomez
+* Mr. Peter Martin D. Gomez
 
